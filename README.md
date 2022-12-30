@@ -1,4 +1,4 @@
-DogMatch is a website for owners to buy dogs nearby.
+DogMatch is a website for owners to meet with dogs nearby.
 
 
 
