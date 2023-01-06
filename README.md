@@ -7,4 +7,5 @@ The main tools used to make Tindog are HTML, Bootstrap for spacing and alignment
 
 
 
+![dogmatch-pic](https://user-images.githubusercontent.com/97071278/210927506-685f6a19-9c38-41da-9229-9d6c2ad18a11.png)
 
